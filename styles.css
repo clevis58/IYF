@@ -81,6 +81,9 @@ nav a {
   text-align: center;
   margin-right: 35px;
 }
+.service, .about, .contact:hover{
+  color: blue;
+  transition: 0.5s;
 
 .cards {
   display: flex;
